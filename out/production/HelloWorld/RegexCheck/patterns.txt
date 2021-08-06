@@ -1,0 +1,6 @@
+4
+([A-Z])(.+)
+[AZ[a-z](a-z)
+batcatpat(nat
+/b
+

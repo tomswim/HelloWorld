@@ -1,0 +1,10 @@
+
+i
+java:S5998
+"LRefactor this repetition that can lead to a stack overflow for large inputs.(›šƒ8”…šÕ/
+]	java:S125"<This block of commented-out lines of code should be removed.(ªÒîÄøÿÿÿÿ8Â”…šÕ/
+W	java:S125"<This block of commented-out lines of code should be removed.(ê§¬k8Ç”…šÕ/
+X	java:S125"<This block of commented-out lines of code should be removed.(Æ…üö8Ô”…šÕ/
+]	java:S125'"<This block of commented-out lines of code should be removed.(®ü†Şøÿÿÿÿ8Ø”…šÕ/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ºª¬·ûÿÿÿÿ8Û”…šÕ/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Œ‡8ù”…šÕ/

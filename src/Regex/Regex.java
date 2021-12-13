@@ -25,5 +25,9 @@ class MyRegex {
 //    String findPeriod = "[.]";
 //    String pattern = find255 + findPeriod + find255 + findPeriod + find255 + findPeriod + find255;
 
-    String pattern ="(?i)\\b(\\w+)\\s+\\1\\b"; //Finding duplicate words, case insensitive
+//    String pattern ="(?i)\\b(\\w+)(\\s+\\1\\b)+"; //Finding multiple similar words, case insensitive
+
+//    String pattern ="^([a-zA-Z])([a-zA-Z0-9_]){7,29}"; //Finding 8 to 30 characters, with first character a letter
+
+    String pattern ="^<.*$"; //Finding 8 to 30 characters, with first character a letter
 }

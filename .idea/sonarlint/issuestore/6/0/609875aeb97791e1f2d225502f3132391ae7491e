@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©žžàûÿÿÿÿ8Úñÿ¡¸/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø·àŽ8Üñÿ¡¸/
+X	java:S125"<This block of commented-out lines of code should be removed.(È”ïë8âñÿ¡¸/
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8äñÿ¡¸/
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8äñÿ¡¸/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÿœì8æñÿ¡¸/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ù²ðüÿÿÿÿ8èñÿ¡¸/

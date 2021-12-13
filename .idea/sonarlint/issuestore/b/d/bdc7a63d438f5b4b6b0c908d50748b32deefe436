@@ -1,0 +1,12 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ö«¾¢ûÿÿÿÿ8¦›…šÕ/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ŒÓğ8¯›…šÕ/
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8²›…šÕ/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥•¦²8µ›…šÕ/
+9
+java:S1643""Use a StringBuilder instead.(ù‰Éæ8»›…šÕ/
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÎÈÿ¢ûÿÿÿÿ8Ã›…šÕ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïšÊ®ıÿÿÿÿ8Ç›…šÕ/
